@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snehalkadwe
-- 👀 I’m interested in PHP, LARAVEL, VUEJS, ANGULAR JS, LIVEWIRE, JAVASCRIPT
+- 👀 I’m interested in PHP, LARAVEL, VUEJS, LIVEWIRE, JAVASCRIPT, NODEJS
 - 🌱 I’m currently Working as Software Engineer
 - 📫 How to reach me snehalkadwe@gmail.com
 - 📫 https://twitter.com/snehal_kadwe
