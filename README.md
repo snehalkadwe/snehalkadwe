@@ -3,7 +3,7 @@
 - 🌱 I’m currently Working as **Software Engineer**
 - 📫 How to reach me **snehalkadwe@gmail.com**
 - 📫 **Follow me on Twitter** - https://twitter.com/snehal_kadwe
-- 📫 **Reach out to me on my Linkeden** - https://www.linkedin.com/in/snehalkadwe
+- 📫 **Reach out to me on my Linkedin** - https://www.linkedin.com/in/snehalkadwe
 - 📫 **Follow me on Peerlist** - https://peerlist.io/snehalkadwe
 - 📫 **Visit my BLOG** - https://dev.to/search?q=snehalkadwe
 
