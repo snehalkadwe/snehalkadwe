@@ -5,9 +5,5 @@
 - 📫 **Follow me on Twitter** - https://twitter.com/snehal_kadwe
 - 📫 **Reach out to me on my Linkedin** - https://www.linkedin.com/in/snehalkadwe
 - 📫 **Follow me on Peerlist** - https://peerlist.io/snehalkadwe
-- 📫 **Visit my BLOG** - https://dev.to/search?q=snehalkadwe
+- 📫 **Visit my BLOG** - [https://dev.to/snehalkadwe](https://dev.to/snehalkadwe)
 
-<!---
-snehalkadwe/snehalkadwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
