@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hi, I’m @snehalkadwe 
-### 🌱 Passionate FullStack Engineer
+### 🌱 Passionate Full Stack Developer
 
-<p><strong>👀 I’m interested in PHP, LARAVEL, VUEJS, LIVEWIRE, JAVASCRIPT, NODEJS</strong></p>
+<p><strong>👀 I’m interested in PHP, LARAVEL, VUEJS, LIVEWIRE, JAVASCRIPT, NODEJS, InertiaJs </strong></p>
 
 📫 How to reach me:
   
