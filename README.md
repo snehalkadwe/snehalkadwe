@@ -7,4 +7,6 @@
 - 📫 **Follow me on Peerlist** - https://peerlist.io/snehalkadwe
 - 📫 **Visit my BLOG** - [https://dev.to/snehalkadwe](https://dev.to/snehalkadwe)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=snehalkadwe)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![An image of @snehalkadwe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehalkadwe)](https://holopin.io/@snehalkadwe)
