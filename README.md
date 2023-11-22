@@ -1,6 +1,8 @@
 
   
-<center>👋 **Hi, I’m @snehalkadwe**</center>
+<center>
+  👋 ## Hi, I’m @snehalkadwe
+</center>
 <hr>
 
 - 👀 I’m interested in **PHP, LARAVEL, VUEJS, LIVEWIRE, JAVASCRIPT, NODEJS**
