@@ -1,4 +1,8 @@
-- 👋 **Hi, I’m @snehalkadwe**
+
+  
+<center>👋 **Hi, I’m @snehalkadwe**</center>
+<hr>
+
 - 👀 I’m interested in **PHP, LARAVEL, VUEJS, LIVEWIRE, JAVASCRIPT, NODEJS**
 - 🌱 I’m currently Working as **Software Engineer**
 - 📫 How to reach me **snehalkadwe@gmail.com**
