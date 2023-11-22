@@ -1,11 +1,13 @@
 <div align="center">
 
 # 👋 Hi, I’m @snehalkadwe 
+  <div align="center">
+    🌱 Passionate **FullStack Engineer**
+  </div>
 
 </div>
 
 - 👀 I’m interested in **PHP, LARAVEL, VUEJS, LIVEWIRE, JAVASCRIPT, NODEJS**
-- 🌱 I’m currently Working as **Software Engineer**
 - 📫 How to reach me **snehalkadwe@gmail.com**
 - 📫 **Follow me on Twitter** - https://twitter.com/snehal_kadwe
 - 📫 **Reach out to me on my Linkedin** - https://www.linkedin.com/in/snehalkadwe
