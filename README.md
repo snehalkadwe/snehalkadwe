@@ -11,7 +11,7 @@
 
 📫 Follow me on:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40snehal_kadwe-blue?style=flat-square&logo=twitter)](https://twitter.com/snehal_kadwe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40snehalkadwe-pink?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/snehalkadwe) [![Peerlist](https://img.shields.io/badge/Peerlist-snehalkadwe-brightgreen?style=flat-square&logo=peerlist)](https://peerlist.io/snehalkadwe) [![dev.to](https://img.shields.io/badge/dev.to-%40snehalkadwe-black?style=flat-square&logo=dev.to)](https://dev.to/snehalkadwe)
+[![Twitter](https://img.shields.io/badge/Twitter-%40snehal_kadwe-blue?style=flat-square&logo=twitter)](https://twitter.com/snehal_kadwe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40snehalkadwe-pink?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/snehalkadwe) [![Peerlist](https://img.shields.io/badge/Peerlist-snehalkadwe-brightgreen?style=flat-square&logo=peerlist)](https://peerlist.io/snehalkadwe) [![dev.to](https://img.shields.io/badge/dev.to-%40snehalkadwe-pink?style=flat-square&logo=dev.to)](https://dev.to/snehalkadwe)
 
 </div>
 
