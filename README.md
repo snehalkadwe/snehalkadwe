@@ -7,7 +7,7 @@
 
 📫 How to reach me:
   
-[![Gmail](https://img.shields.io/badge/Gmail-snehalkadwe%40gmail.com-red?style=flat-square&logo=gmail)](mailto:snehalkadwe@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-snehalkadwe%40gmail.com-orange?style=flat-square&logo=gmail)](mailto:snehalkadwe@gmail.com)
 
 📫 Follow me on:
 
