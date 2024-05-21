@@ -3,7 +3,7 @@
 # 👋 Hi, I’m @snehalkadwe 
 ### 🌱 Passionate Full Stack Developer
 
-<p><strong>👀 I’m interested in PHP, LARAVEL, VUEJS, LIVEWIRE, JAVASCRIPT, NODEJS, InertiaJs </strong></p>
+<p><strong>👀 I’m interested in PHP, LARAVEL, VUEJS, LIVEWIRE, JAVASCRIPT, NODEJS, InertiaJS </strong></p>
 
 📫 How to reach me:
   
