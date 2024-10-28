@@ -26,3 +26,7 @@
 </div>
 
 <hr>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalkadwe&show_icons=true&locale=en&layout=compact" alt="snehalkadwemoon" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=snehalkadwe&show_icons=true&locale=en" alt="snehalkadwemoon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalkadwe&" alt="snehalkadwemoon" /></p> </br>
