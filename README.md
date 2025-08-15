@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m @snehalkadwe 
+# 👋 Hi, I’m @snehalmoon
 ### 🌱 Passionate Full Stack Developer
 
 <p><strong>👀 I’m interested in PHP, LARAVEL, VUEJS, LIVEWIRE, JAVASCRIPT, NODEJS, InertiaJS </strong></p>
