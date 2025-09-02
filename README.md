@@ -3,7 +3,7 @@
 # 👋 Hi, I’m @snehalmoon
 ### 🌱 Passionate Full Stack Developer
 
-<p><strong>👀 I’m interested in PHP, LARAVEL, VUEJS, JAVASCRIPT, NODEJS & REACT, Inertia, Python </strong></p>
+<p><strong>👀 I’m interested in PHP, LARAVEL, VUEJS, JAVASCRIPT, NODEJS & REACT, Inertia, Python, AI </strong></p>
 
 📫 How to reach me:
   
