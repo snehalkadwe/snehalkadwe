@@ -21,9 +21,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalkadwe&" alt="snehalkadwemoon" /></p> </br>
 </div>
 
-```php
-snehal moon
-```
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=snehalkadwe&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
